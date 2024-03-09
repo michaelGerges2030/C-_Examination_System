@@ -1,0 +1,14 @@
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\bin\Debug\net7.0\Exam 02_Michael Sameh.exe
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\bin\Debug\net7.0\Exam 02_Michael Sameh.deps.json
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\bin\Debug\net7.0\Exam 02_Michael Sameh.runtimeconfig.json
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\bin\Debug\net7.0\Exam 02_Michael Sameh.dll
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\bin\Debug\net7.0\Exam 02_Michael Sameh.pdb
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\obj\Debug\net7.0\Exam 02_Michael Sameh.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\obj\Debug\net7.0\Exam 02_Michael Sameh.AssemblyInfoInputs.cache
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\obj\Debug\net7.0\Exam 02_Michael Sameh.AssemblyInfo.cs
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\obj\Debug\net7.0\Exam 02_Michael Sameh.csproj.CoreCompileInputs.cache
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\obj\Debug\net7.0\Exam 02_Michael Sameh.dll
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\obj\Debug\net7.0\refint\Exam 02_Michael Sameh.dll
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\obj\Debug\net7.0\Exam 02_Michael Sameh.pdb
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\obj\Debug\net7.0\Exam 02_Michael Sameh.genruntimeconfig.cache
+E:\Desktop\Route Academy\Full Stack\BackEnd\EXAM 02\Exam 02_Michael Sameh Solution\Exam 02_Michael Sameh\obj\Debug\net7.0\ref\Exam 02_Michael Sameh.dll
